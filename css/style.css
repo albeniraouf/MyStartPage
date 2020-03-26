@@ -10,12 +10,12 @@ html {
   margin: 0;
   padding: 0;
   background-color: #565656;
-/* background-image: url('../img/background-light.jpg');
+  background-image: url('../img/background-dark.jpg');
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
   background-size: cover;
-*/}
+}
 
 body {
   height: 100%;
